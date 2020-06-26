@@ -36,3 +36,6 @@ La práctica está dividida en los siguientes apartados por orden de elaboració
    Notebook 2: Prediccion combinada imagenes y datos numericos MLP_CNN.ipynb
    
    Enlace URL: https://colab.research.google.com/drive/189exunnlXJjVG8Oe0pMFcsxdwflGQAOL?usp=sharing
+
+
+Se incluyen los enlaces a GoogleDrive pero los notebooks también se han descargado en github en este repositorio.
