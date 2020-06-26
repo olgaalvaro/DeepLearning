@@ -28,9 +28,9 @@ La práctica está dividida en los siguientes apartados por orden de elaboració
 
 4. Predicción combinando los datos numéricos y las imágenes tanto en regresión como en clasificación. 
    
-   Notebook 1:
+   Notebook 1: Prediccion combinada imagenes y datos numéricos.ipynb
    
-   Enlace URL:
+   Enlace URL: https://drive.google.com/file/d/1k4dhMCTycLvoi-hyHFcVsTgIfcVGh3Bm/view?usp=sharing
    
    
    Notebook 2:
