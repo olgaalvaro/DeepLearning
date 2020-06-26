@@ -2,6 +2,7 @@
 
 La práctica está dividida en los siguientes apartados por orden de elaboración:
 
+
 1. Preprocesado de los datos del dataframe de AirBnb reutilizando lo aplicado en el módulo de Machine Learning.
 
    Notebook: Procesamiento de datos.ipynb
