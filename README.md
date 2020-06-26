@@ -17,14 +17,17 @@ La práctica está dividida en los siguientes apartados por orden de elaboració
 3. Predicción manejando exclusivamente las imágenes tanto en regresión como en clasificación.
    
    Notebook: Prediccion con imagenes.ipynb
+   
    Enlace URL: https://drive.google.com/file/d/1BwOA3LVdKFSPiy_JR18uxr22o1Rfb0ye/view?usp=sharing
    
 
 4. Predicción combinando los datos numéricos y las imágenes tanto en regresión como en clasificación. 
    
    Notebook 1:
+   
    Enlace URL:
    
    
    Notebook 2:
+   
    Enlace URL:
